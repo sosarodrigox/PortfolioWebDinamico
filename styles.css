@@ -3,5 +3,10 @@
 }
 
 #header img {
- width: 50px;
+ width: 35px;
+ margin-left: 10px;
+ margin-right: 10px;
+}
+#body {
+background: gray;
 }
